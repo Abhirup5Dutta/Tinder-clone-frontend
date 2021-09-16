@@ -1,3 +1,9 @@
+# Application build
+
+[Deployed Application Link](https://tinder-clone-7f437.web.app/)
+
+![Project image](https://i.imgur.com/cEtj3UC.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
